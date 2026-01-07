@@ -163,11 +163,13 @@ export default function Index() {
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Your body makes cholesterol using a specific process. Statins shut down that process.
+                  Your body makes cholesterol using a specific process. Statins
+                  shut down that process.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  But that same process also makes CoQ10—the fuel your cells use for energy.
+                  But that same process also makes CoQ10—the fuel your cells use
+                  for energy.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -175,19 +177,26 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  That's why you're exhausted. Why stairs feel impossible. Why your brain feels foggy. Your cells literally can't make enough energy to function.
+                  That's why you're exhausted. Why stairs feel impossible. Why
+                  your brain feels foggy. Your cells literally can't make enough
+                  energy to function.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Red yeast rice works similarly—but gentler, at lower intensity. And when you add back the CoQ10 that gets depleted, you're replacing what the cholesterol-blocking process strips away.
+                  Red yeast rice works similarly—but gentler, at lower
+                  intensity. And when you add back the CoQ10 that gets depleted,
+                  you're replacing what the cholesterol-blocking process strips
+                  away.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  The combination in clinical studies: 2400mg red yeast rice plus 200mg CoQ10 per serving.
+                  The combination in clinical studies: 2400mg red yeast rice
+                  plus 200mg CoQ10 per serving.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Support cholesterol management without starving your cells of energy.
+                  Support cholesterol management without starving your cells of
+                  energy.
                 </p>
               </div>
             </div>
