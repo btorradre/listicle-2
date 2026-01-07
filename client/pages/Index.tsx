@@ -159,39 +159,35 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  1. Statins Block Cholesterol—But They Also Block Something You
-                  Need
+                  1. Statins Block Cholesterol—But They Also Block Your Energy
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins work by blocking an enzyme called HMG-CoA reductase.
-                  That stops your liver from making cholesterol.
+                  Your body makes cholesterol using a specific process. Statins shut down that process.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  But here's what they don't tell you: that same pathway also
-                  makes CoQ10. CoQ10 is what your cells use to create energy.
-                  Every cell in your body needs it.
+                  But that same process also makes CoQ10—the fuel your cells use for energy.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  So when you block cholesterol production, you're also blocking
-                  CoQ10 production. That's why you feel exhausted. That's why
-                  climbing stairs feels impossible. Your cells literally can't
-                  generate enough energy.
+                  Block cholesterol = block CoQ10.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Red yeast rice contains monacolin K—a natural compound that
-                  works on the same pathway. But at lower, gentler doses. And
-                  when you combine 2400mg of red yeast rice with 200mg of CoQ10,
-                  you're replacing what gets depleted.
+                  That's why you're exhausted. Why stairs feel impossible. Why your brain feels foggy. Your cells literally can't make enough energy to function.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Red yeast rice works similarly—but gentler, at lower intensity. And when you add back the CoQ10 that gets depleted, you're replacing what the cholesterol-blocking process strips away.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  The combination in clinical studies: 2400mg red yeast rice plus 200mg CoQ10 per serving.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Clinical studies show this combination—2400mg red yeast rice
-                  plus 200mg CoQ10—supports cardiovascular health without
-                  stripping your cells of their energy source.
+                  Support cholesterol management without starving your cells of energy.
                 </p>
               </div>
             </div>
